@@ -1,5 +1,7 @@
-#How to run 
+## How to run and manage
 
-terraform init 
-terraform plan
-terraform apply
+All usernames , teams , roles defined in file matrix.yaml .
+
+- `terraform init`
+- `terraform plan`
+- `terraform apply`

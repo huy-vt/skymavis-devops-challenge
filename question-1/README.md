@@ -1,3 +1,4 @@
-#How to run 
+## How to run 
 
-Input to array in main.py & run python3 main.py
+- Input to array in main.py
+- Run `python3 main.py`

@@ -1,3 +1,5 @@
-#How to run 
+## How to run 
 
-Just run python3 main.py  => open browser http://127.0.0.1:8000
+- Run `pip3 install -r requirements.txt`
+- Run `python3 main.py`
+- Open browser http://127.0.0.1:8000
