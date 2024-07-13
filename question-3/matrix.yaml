@@ -70,3 +70,6 @@
     - User10
   maintainer:
     - User4
+- name: Team7
+  maintainer:
+    - User8
