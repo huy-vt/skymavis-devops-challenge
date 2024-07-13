@@ -1,1 +1,1 @@
-# skymavis-devops-challenge
+# Skymavis-devops-challenge
